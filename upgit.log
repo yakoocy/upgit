@@ -1,0 +1,4 @@
+2022-11-16 11:04:23.5844931 +0800 CST m=+0.003169001[INFO ] Started
+2022-11-16 11:04:23.6636115 +0800 CST m=+0.082287401[INFO ] uploader: github
+2022-11-16 11:04:23.6636115 +0800 CST m=+0.082287401[INFO ] uploading #TASK_0 C:\Users\Administrator\AppData\Local\Temp/upgit_tmp_1668567863613404.png
+2022-11-16 11:04:24.1107025 +0800 CST m=+0.529378401[INFO ] failed to upload #TASK_0 C:\Users\Administrator\AppData\Local\Temp/upgit_tmp_1668567863613404.png : Put "https://api.github.com/repos/yakoocy/upgit/contents/2022/11/upgit_20221116_1668567863.png": x509: certificate is valid for *.registry.github.com, registry.github.com, not api.github.com
